@@ -894,8 +894,8 @@ video {
   padding-top: 8rem;
 }
 
-.pb-32 {
-  padding-bottom: 8rem;
+.pb-36 {
+  padding-bottom: 9rem;
 }
 
 .pt-40 {
@@ -916,10 +916,6 @@ video {
 
 .pt-10 {
   padding-top: 2.5rem;
-}
-
-.pb-36 {
-  padding-bottom: 9rem;
 }
 
 .text-center {
@@ -1106,19 +1102,14 @@ body {
   border-color: rgb(59 130 246 / var(--tw-border-opacity));
 }
 
-.hover\:bg-dark:hover {
+.hover\:bg-blue-700:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(30 41 59 / var(--tw-bg-opacity));
+  background-color: rgb(29 78 216 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
-}
-
-.hover\:bg-blue-700:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(29 78 216 / var(--tw-bg-opacity));
 }
 
 .hover\:text-primary:hover {
